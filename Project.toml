@@ -1,0 +1,13 @@
+name = "RandomField"
+uuid = "ea00e5b8-d714-4452-a9a7-a727fb3f7263"
+authors = ["phuthiennguyen"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.10.10"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
